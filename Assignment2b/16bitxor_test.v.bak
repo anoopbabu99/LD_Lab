@@ -1,0 +1,20 @@
+module stimulus;
+
+wire [15:0]h;
+reg [15:0]a,b;
+integer i,j;
+
+xor16_gate xor16_gate_1(h,b,a);
+initial
+begin
+	for(i=0;i<65535;i=i+1)
+	begin
+	a=i;
+		for(j=0;j<65535;j=j+1)
+		begin
+		b=j;
+		end
+	end
+end
+
+endmodule
