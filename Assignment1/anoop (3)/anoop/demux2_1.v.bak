@@ -1,0 +1,12 @@
+module demux21_gate(i,s,a,b);
+input i,s;
+wire s1;
+output a,b;
+
+not_gate not_gate_1(s1,s);
+and_gate and_gate_1(a,s1,i);
+and_gate and_gate_2(b,s,i);
+
+
+
+endmodule

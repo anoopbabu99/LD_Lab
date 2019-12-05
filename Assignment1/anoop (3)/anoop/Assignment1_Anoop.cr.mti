@@ -1,0 +1,49 @@
+/home/student/intelFPGA/18.0/xor_test.v {1 {vlog -work work -stats=none /home/student/intelFPGA/18.0/xor_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} /home/student/intelFPGA/18.0/xor.v {1 {vlog -work work -stats=none /home/student/intelFPGA/18.0/xor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} /home/student/intelFPGA/18.0/and_test.v {1 {vlog -work work -stats=none /home/student/intelFPGA/18.0/and_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} /home/student/intelFPGA/18.0/and.v {1 {vlog -work work -stats=none /home/student/intelFPGA/18.0/and.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module and_gate
+
+Top level modules:
+	and_gate
+
+} {} {}} /home/student/intelFPGA/18.0/16bitnot_test.v {0 {vcom -work work -2002 -explicit -stats=none /home/student/intelFPGA/18.0/16bitnot_test.v
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+** Error (suppressible): /home/student/intelFPGA/18.0/16bitnot_test.v(2): (vcom-1491) Empty source files.
+
+} {} {}} /home/student/intelFPGA/18.0/nor_test.v {1 {vlog -work work -stats=none /home/student/intelFPGA/18.0/nor_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} /home/student/intelFPGA/18.0/16bitnot.v {0 {vlog -work work -stats=none /home/student/intelFPGA/18.0/16bitnot.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module not16_gate
+** Error: (vlog-13069) /home/student/intelFPGA/18.0/16bitnot.v(3): near "input": syntax error, unexpected input, expecting ';'.
+** Error: (vlog-13036) /home/student/intelFPGA/18.0/16bitnot.v(5): near "++": Operator only allowed in SystemVerilog.
+
+} {4.0 6.0} {}} /home/student/intelFPGA/18.0/nor.v {1 {vlog -work work -stats=none /home/student/intelFPGA/18.0/nor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} /home/student/intelFPGA/18.0/not_test.v {1 {vlog -work work -stats=none /home/student/intelFPGA/18.0/not_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} /home/student/intelFPGA/18.0/not.v {1 {vlog -work work -stats=none /home/student/intelFPGA/18.0/not.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} /home/student/intelFPGA/18.0/or.v {1 {vlog -work work -stats=none /home/student/intelFPGA/18.0/or.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} /home/student/intelFPGA/18.0/xnor_test.v {1 {vlog -work work -stats=none /home/student/intelFPGA/18.0/xnor_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} /home/student/intelFPGA/18.0/xnor.v {1 {vlog -work work -stats=none /home/student/intelFPGA/18.0/xnor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}}

@@ -1,0 +1,430 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/student/intelFPGA/18.0
+vand16_gate
+Z0 !s110 1536497226
+!i10b 1
+!s100 3KGo:l[AB_kA[TkMHIMCz1
+I88_Oz9Dn@JHVID[=_ena82
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/home/student/Desktop/anoop
+w1536383708
+8/home/student/Desktop/anoop/16bitand.v
+F/home/student/Desktop/anoop/16bitand.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1536497226.000000
+!s107 /home/student/Desktop/anoop/16bitand.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/16bitand.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vand_gate
+Z7 !s110 1536497227
+!i10b 1
+!s100 C[^JFldz<WaEgolY3DzjU3
+IZzT2S1=>?AVJS4a>X86hX2
+R1
+R2
+w1533551840
+8/home/student/Desktop/anoop/and.v
+F/home/student/Desktop/anoop/and.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1536497227.000000
+!s107 /home/student/Desktop/anoop/and.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/and.v|
+!i113 1
+R5
+R6
+vdemux21_gate
+R7
+!i10b 1
+!s100 YnAFdH:O9j:=:Nm2bESi?3
+IFAZbFjI<MX94XliR?^=i33
+R1
+R2
+Z9 w1536224400
+8/home/student/Desktop/anoop/demux2_1.v
+F/home/student/Desktop/anoop/demux2_1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/student/Desktop/anoop/demux2_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/demux2_1.v|
+!i113 1
+R5
+R6
+vdemux41_gate
+R7
+!i10b 1
+!s100 YDHoY[c^Vj:E`KFWTlXn@1
+InLflbg:ME2:ojGf?XCj9>1
+R1
+R2
+w1536490662
+8/home/student/Desktop/anoop/demux4_1.v
+F/home/student/Desktop/anoop/demux4_1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/student/Desktop/anoop/demux4_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/demux4_1.v|
+!i113 1
+R5
+R6
+vdemux81_gate
+!s110 1536497228
+!i10b 1
+!s100 mgNFe[8^di=<eSkA;1:8e0
+I@eILXCnLAkQZ4Qe76UMOi3
+R1
+R2
+w1536490950
+8/home/student/Desktop/anoop/demux8_1.v
+F/home/student/Desktop/anoop/demux8_1.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1536497228.000000
+!s107 /home/student/Desktop/anoop/demux8_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/demux8_1.v|
+!i113 1
+R5
+R6
+vmux21_16_gate
+R0
+!i10b 1
+!s100 zXI^jn;YGJS[EI^G7M8E00
+I6cXXN@]<G^dYbY9z^oOK43
+R1
+R2
+w1536495774
+8/home/student/Desktop/anoop/16bitmux.v
+F/home/student/Desktop/anoop/16bitmux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/student/Desktop/anoop/16bitmux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/16bitmux.v|
+!i113 1
+R5
+R6
+vmux21_gate
+R7
+!i10b 1
+!s100 ^ZB3cMd[T6M2;g;7WDGWB0
+ImDQge1OHC6N1TBPU[B4Xk0
+R1
+R2
+R9
+8/home/student/Desktop/anoop/mux2_1.v
+F/home/student/Desktop/anoop/mux2_1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/student/Desktop/anoop/mux2_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/mux2_1.v|
+!i113 1
+R5
+R6
+vmux41_16_gate
+R7
+!i10b 1
+!s100 j6M2OooWj@d[Ro81c;Y^a2
+IjkXhaRIEcf<7G0LPAdYLL1
+R1
+R2
+w1536496535
+8/home/student/Desktop/anoop/16bitmux4_1.v
+F/home/student/Desktop/anoop/16bitmux4_1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/student/Desktop/anoop/16bitmux4_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/16bitmux4_1.v|
+!i113 1
+R5
+R6
+vmux81_16_gate
+Z10 !s110 1536499236
+!i10b 1
+!s100 XOOhb`6@APh@kE_?RR4eE2
+ITiXQjU^fK]Z3hUk;gCL;K2
+R1
+R2
+w1536499058
+8/home/student/Desktop/anoop/16bitmux8_1.v
+F/home/student/Desktop/anoop/16bitmux8_1.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z11 !s108 1536499236.000000
+!s107 /home/student/Desktop/anoop/16bitmux8_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/16bitmux8_1.v|
+!i113 1
+R5
+R6
+vnor_gate
+R7
+!i10b 1
+!s100 gdn`6On_;KRo3bJ1N_R9G2
+IBSUX>h9TPM?hleRC=XZ;l0
+R1
+R2
+w1533548454
+8/home/student/Desktop/anoop/nor.v
+F/home/student/Desktop/anoop/nor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/student/Desktop/anoop/nor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/nor.v|
+!i113 1
+R5
+R6
+vnot16_gate
+R0
+!i10b 1
+!s100 bO;oz`>zjTDUW8UA3L>k@1
+Im=E^jX78SL_oH65lR0gTe2
+R1
+R2
+w1533552100
+8/home/student/Desktop/anoop/16bitnot.v
+F/home/student/Desktop/anoop/16bitnot.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/student/Desktop/anoop/16bitnot.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/16bitnot.v|
+!i113 1
+R5
+R6
+vnot_gate
+R7
+!i10b 1
+!s100 oNTi=DRoMYk^LVL>O]_G;0
+IGX_U5T70hc?XLR;3lOUiM2
+R1
+R2
+w1533546398
+8/home/student/Desktop/anoop/not.v
+F/home/student/Desktop/anoop/not.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/student/Desktop/anoop/not.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/not.v|
+!i113 1
+R5
+R6
+vnott_gate
+!s110 1536495360
+!i10b 1
+!s100 iFlVGjNIhCMe2CMekaTTL2
+IJ=2aiNCT8gSbhB[bP6d6F0
+R1
+R2
+w1536495126
+8/home/student/Desktop/anoop/q1not.v
+F/home/student/Desktop/anoop/q1not.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1536495360.000000
+!s107 /home/student/Desktop/anoop/q1not.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/q1not.v|
+!i113 1
+R5
+R6
+vor16_gate
+R7
+!i10b 1
+!s100 @;MjfA;e>TkDZ`B3OdC3z0
+I06H=CTDj`M6Dfa56VBGL53
+R1
+R2
+R9
+8/home/student/Desktop/anoop/16bitor.v
+F/home/student/Desktop/anoop/16bitor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/student/Desktop/anoop/16bitor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/16bitor.v|
+!i113 1
+R5
+R6
+vor_gate
+R7
+!i10b 1
+!s100 Ac90<=eFcNELO1zo9bJU@0
+Inb[Wf3]2Xaf08QLhHEG1S0
+R1
+R2
+w1533552112
+8/home/student/Desktop/anoop/or.v
+F/home/student/Desktop/anoop/or.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/student/Desktop/anoop/or.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/or.v|
+!i113 1
+R5
+R6
+vorinput8_gate
+R7
+!i10b 1
+!s100 b5N66RfkPCNbe0W[m_jJJ2
+Ih1d^QS>_6oY`e:e>GGe;R2
+R1
+R2
+w1536384781
+8/home/student/Desktop/anoop/or8input.v
+F/home/student/Desktop/anoop/or8input.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/student/Desktop/anoop/or8input.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/or8input.v|
+!i113 1
+R5
+R6
+vstimulus
+R10
+!i10b 1
+!s100 c95McRO3^LJOV7HDOFYSM0
+I2cYjXP=i=RWZ20111?Qm;1
+R1
+R2
+w1536499231
+8/home/student/Desktop/anoop/16bitmux8_1_test.v
+F/home/student/Desktop/anoop/16bitmux8_1_test.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 /home/student/Desktop/anoop/16bitmux8_1_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/16bitmux8_1_test.v|
+!i113 1
+R5
+R6
+vxnor_gate
+R7
+!i10b 1
+!s100 HXQQ]mGdN@ccca3V<@9oE2
+ID7bzTO7Ef>IZbAlz?=LHb0
+R1
+R2
+w1533548990
+8/home/student/Desktop/anoop/xnor.v
+F/home/student/Desktop/anoop/xnor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/student/Desktop/anoop/xnor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/xnor.v|
+!i113 1
+R5
+R6
+vxor16_gate
+R7
+!i10b 1
+!s100 >lNVNQo1kWaVFShlCg0Dz2
+IZQlBAUU=9F7TO:ZY31^=J2
+R1
+R2
+R9
+8/home/student/Desktop/anoop/16bitxor.v
+F/home/student/Desktop/anoop/16bitxor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/student/Desktop/anoop/16bitxor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/16bitxor.v|
+!i113 1
+R5
+R6
+vxor_gate
+R7
+!i10b 1
+!s100 l44nDDl>O5=fRRF9O27HG3
+I0UFPUd[ofGi=fZ7BLK_`V2
+R1
+R2
+w1533547970
+8/home/student/Desktop/anoop/xor.v
+F/home/student/Desktop/anoop/xor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 /home/student/Desktop/anoop/xor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/student/Desktop/anoop/xor.v|
+!i113 1
+R5
+R6
