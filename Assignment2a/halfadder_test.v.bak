@@ -1,0 +1,15 @@
+module stimulus;
+wire s,c;
+reg a,b;
+
+halfadder halfadder_1(s,c,a,b);
+initial 
+begin
+
+a=1'b0; b=1'b0;
+#10 a=1'b0;b=1'b1; 
+#10 a=1'b1;b=1'b0; 
+#10 a=1'b1;b=1'b1;
+
+end
+endmodule

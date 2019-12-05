@@ -1,0 +1,14 @@
+module stimulus;
+
+wire b;
+reg a;
+
+nott_gate_1(b,a);
+
+initial
+
+begin
+a=1b'0;
+#10 a=1b'1;
+end
+endmodule

@@ -1,0 +1,775 @@
+# Loading project a1
+# Compile of 16bitand.v was successful.
+# Compile of 16bitand_test.v was successful.
+# Compile of 16bitmux.v was successful.
+# Compile of 16bitmux_test.v was successful.
+# Compile of 16bitnot.v was successful.
+# Compile of 16bitnot_test.v was successful.
+# Compile of 16bitor.v was successful.
+# Compile of 16bitor_test.v was successful.
+# Compile of 16bitxor.v was successful.
+# Compile of 16bitxor_test.v was successful.
+# Compile of and.v was successful.
+# Compile of and_test.v was successful.
+# Compile of demux2_1.v was successful.
+# Compile of demux2_1_test.v was successful.
+# Compile of mux2_1.v was successful.
+# Compile of mux2_1_test.v was successful.
+# Compile of nor.v was successful.
+# Compile of nor_test.v was successful.
+# Compile of not.v was successful.
+# Compile of not_test.v was successful.
+# Compile of or.v was successful.
+# Compile of or8input.v was successful.
+# Compile of or_test.v was successful.
+# Compile of xnor.v was successful.
+# Compile of xnor_test.v was successful.
+# Compile of xor.v was successful.
+# Compile of xor_test.v was successful.
+# Compile of or8input_test.v was successful.
+# Compile of 16bitmux4_1.v was successful.
+# Compile of 16bitmux4_1_test.v was successful.
+# Compile of demux4_1.v was successful.
+# Compile of demux4_1_test.v was successful.
+# Compile of 16bitmux8_1.v was successful.
+# Compile of 16bitmux8_1_test.v was successful.
+# Compile of demux8_1.v failed with 29 errors.
+# 35 compiles, 1 failed with 29 errors.
+# Compile of demux4_1.v was successful.
+# Compile of demux4_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 16:18:30 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.demux41_gate
+# Loading work.not_gate
+# Loading work.and_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 16:20:46 on Sep 09,2018, Elapsed time: 0:02:16
+# Errors: 0, Warnings: 0
+# Compile of demux4_1.v was successful.
+# Compile of demux4_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 16:22:07 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.demux41_gate
+# Loading work.not_gate
+# Loading work.and_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 16:23:56 on Sep 09,2018, Elapsed time: 0:01:49
+# Errors: 0, Warnings: 0
+# Compile of demux4_1.v was successful.
+# Compile of demux4_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 16:24:21 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.demux41_gate
+# Loading work.not_gate
+# Loading work.and_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 16:25:02 on Sep 09,2018, Elapsed time: 0:00:41
+# Errors: 0, Warnings: 0
+# Compile of demux4_1.v was successful.
+# Compile of demux4_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 16:27:58 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.demux41_gate
+# Loading work.not_gate
+# Loading work.and_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 16:29:40 on Sep 09,2018, Elapsed time: 0:01:42
+# Errors: 0, Warnings: 0
+# Compile of demux2_1.v was successful.
+# Compile of demux2_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 16:30:00 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.demux21_gate
+# Loading work.not_gate
+# Loading work.and_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 16:30:48 on Sep 09,2018, Elapsed time: 0:00:48
+# Errors: 0, Warnings: 0
+# Compile of demux8_1.v was successful.
+# Compile of demux8_1.v was successful.
+# Compile of demux8_1_test.v failed with 16 errors.
+# 2 compiles, 1 failed with 16 errors.
+# Compile of demux8_1.v was successful.
+# Compile of demux8_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 16:40:09 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.demux81_gate
+# Loading work.demux21_gate
+# Loading work.not_gate
+# Loading work.and_gate
+# Loading work.demux41_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+run
+quit -sim
+# End time: 16:43:27 on Sep 09,2018, Elapsed time: 0:03:18
+# Errors: 0, Warnings: 0
+# Compile of not.v was successful.
+# Compile of not_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Load canceled
+# Compile of not.v was successful.
+# Compile of not_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 16:50:22 on Sep 09,2018
+# Loading work.stimulus
+# ** Error: (vsim-3033) /home/student/Desktop/anoop/not_test.v(6): Instantiation of 'not_gate_1' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /stimulus File: /home/student/Desktop/anoop/not_test.v
+#         Searched libraries:
+#             /home/student/Desktop/anoop/work
+# Error loading design
+# End time: 16:50:22 on Sep 09,2018, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# Compile of not.v was successful.
+# Compile of not_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 16:51:00 on Sep 09,2018
+# Loading work.stimulus
+# ** Error: (vsim-3033) /home/student/Desktop/anoop/not_test.v(6): Instantiation of 'not_gate_1' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /stimulus File: /home/student/Desktop/anoop/not_test.v
+#         Searched libraries:
+#             /home/student/Desktop/anoop/work
+# Error loading design
+# End time: 16:51:00 on Sep 09,2018, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# Compile of not_test.v was successful.
+# Compile of and.v was successful.
+# Compile of and_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 16:53:04 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.and_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+run
+run
+quit -sim
+# End time: 16:53:49 on Sep 09,2018, Elapsed time: 0:00:45
+# Errors: 0, Warnings: 0
+# Compile of or_test.v was successful.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 16:54:19 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.or_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+run
+run
+run
+quit -sim
+# End time: 16:55:14 on Sep 09,2018, Elapsed time: 0:00:55
+# Errors: 0, Warnings: 0
+# Compile of nor.v was successful.
+# Compile of nor_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 16:55:37 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.nor_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 16:56:17 on Sep 09,2018, Elapsed time: 0:00:40
+# Errors: 0, Warnings: 0
+# Compile of xor.v was successful.
+# Compile of xor_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 16:57:15 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.xor_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 16:58:05 on Sep 09,2018, Elapsed time: 0:00:50
+# Errors: 0, Warnings: 0
+# Compile of xnor.v was successful.
+# Compile of xnor_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 16:58:33 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.xnor_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+run
+quit -sim
+# End time: 16:59:35 on Sep 09,2018, Elapsed time: 0:01:02
+# Errors: 0, Warnings: 0
+# Compile of 16bitnot.v was successful.
+# Compile of 16bitnot_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 17:00:28 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.not16_gate
+# Loading work.not_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 17:01:35 on Sep 09,2018, Elapsed time: 0:01:07
+# Errors: 0, Warnings: 0
+# Compile of 16bitand.v was successful.
+# Compile of 16bitand_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 17:02:03 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.and16_gate
+# Loading work.and_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+run
+run
+run
+quit -sim
+# End time: 17:05:20 on Sep 09,2018, Elapsed time: 0:03:17
+# Errors: 0, Warnings: 0
+# Compile of 16bitor.v was successful.
+# Compile of 16bitor_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 17:05:45 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.or16_gate
+# Loading work.or_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 17:07:35 on Sep 09,2018, Elapsed time: 0:01:50
+# Errors: 0, Warnings: 0
+# Compile of 16bitxor.v was successful.
+# Compile of 16bitxor_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 17:07:51 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.xor16_gate
+# Loading work.xor_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 17:09:10 on Sep 09,2018, Elapsed time: 0:01:19
+# Errors: 0, Warnings: 0
+# Compile of or8input.v was successful.
+# Compile of or8input_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 17:20:00 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.orinput8_gate
+# Loading work.or_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 17:21:43 on Sep 09,2018, Elapsed time: 0:01:43
+# Errors: 0, Warnings: 0
+# Compile of or8input.v was successful.
+# Compile of or8input_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 17:26:10 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.orinput8_gate
+# Loading work.or_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 17:28:09 on Sep 09,2018, Elapsed time: 0:01:59
+# Errors: 0, Warnings: 0
+# Compile of or8input.v was successful.
+# Compile of or8input_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 17:28:35 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.orinput8_gate
+# Loading work.or_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 17:29:16 on Sep 09,2018, Elapsed time: 0:00:41
+# Errors: 0, Warnings: 0
+# Compile of or8input.v was successful.
+# Compile of or8input_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.orinput8_gate
+# vsim work.orinput8_gate 
+# Start time: 17:30:22 on Sep 09,2018
+# Loading work.orinput8_gate
+# Loading work.or_gate
+add wave -position insertpoint sim:/orinput8_gate/*
+run
+quit -sim
+# End time: 17:30:52 on Sep 09,2018, Elapsed time: 0:00:30
+# Errors: 0, Warnings: 0
+# Compile of or8input.v was successful.
+# Compile of or8input_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 17:31:20 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.orinput8_gate
+# Loading work.or_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 17:33:00 on Sep 09,2018, Elapsed time: 0:01:40
+# Errors: 0, Warnings: 0
+# Compile of mux2_1.v was successful.
+# Compile of mux2_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 17:34:23 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.mux21_gate
+# Loading work.not_gate
+# Loading work.and_gate
+# Loading work.or_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 17:37:33 on Sep 09,2018, Elapsed time: 0:03:10
+# Errors: 0, Warnings: 0
+# Compile of q1not.v was successful.
+# Compile of q1not_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of q1not.v was successful.
+# Compile of q1not_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 17:41:33 on Sep 09,2018
+# Loading work.stimulus
+# ** Error: (vsim-3033) /home/student/Desktop/anoop/q1not_test.v(6): Instantiation of 'not_gate_1' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /stimulus File: /home/student/Desktop/anoop/q1not_test.v
+#         Searched libraries:
+#             /home/student/Desktop/anoop/work
+# Error loading design
+# End time: 17:41:33 on Sep 09,2018, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# Compile of mux2_1.v was successful.
+# Compile of mux2_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of q1not.v was successful.
+# Compile of q1not_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 17:43:39 on Sep 09,2018
+# Loading work.stimulus
+# ** Error: (vsim-3033) /home/student/Desktop/anoop/q1not_test.v(6): Instantiation of 'nott_gate_1' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /stimulus File: /home/student/Desktop/anoop/q1not_test.v
+#         Searched libraries:
+#             /home/student/Desktop/anoop/work
+# Error loading design
+# End time: 17:43:39 on Sep 09,2018, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# Compile of q1not.v was successful.
+# Compile of q1not_test.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of q1not.v was successful.
+# Compile of q1not_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 17:46:10 on Sep 09,2018
+# Loading work.stimulus
+# ** Error: (vsim-3033) /home/student/Desktop/anoop/q1not_test.v(6): Instantiation of 'nott_gate_1' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /stimulus File: /home/student/Desktop/anoop/q1not_test.v
+#         Searched libraries:
+#             /home/student/Desktop/anoop/work
+# Error loading design
+# End time: 17:46:10 on Sep 09,2018, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# Compile of not.v was successful.
+# Compile of not_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 17:49:30 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.not_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 17:49:53 on Sep 09,2018, Elapsed time: 0:00:23
+# Errors: 0, Warnings: 0
+# Compile of 16bitmux.v was successful.
+# Compile of 16bitmux_test.v failed with 2 errors.
+# Compile of 16bitmux4_1.v was successful.
+# Compile of 16bitmux4_1_test.v was successful.
+# Compile of 16bitmux8_1.v was successful.
+# Compile of 16bitmux8_1_test.v was successful.
+# 6 compiles, 1 failed with 2 errors.
+# Compile of 16bitmux_test.v was successful.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 17:55:27 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.mux21_16_gate
+# Loading work.mux21_gate
+# Loading work.not_gate
+# Loading work.and_gate
+# Loading work.or_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+run
+quit -sim
+# End time: 17:58:47 on Sep 09,2018, Elapsed time: 0:03:20
+# Errors: 0, Warnings: 0
+# Compile of 16bitmux4_1.v was successful.
+# Compile of 16bitmux4_1_test.v failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of 16bitmux4_1.v was successful.
+# Compile of 16bitmux4_1_test.v failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of 16bitmux4_1.v was successful.
+# Compile of 16bitmux4_1_test.v failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of 16bitmux4_1.v was successful.
+# Compile of 16bitmux4_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of 16bitmux4_1.v was successful.
+# Compile of 16bitmux4_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 18:02:11 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.mux41_16_gate
+# Loading work.mux21_gate
+# Loading work.not_gate
+# Loading work.and_gate
+# Loading work.or_gate
+# ** Warning: (vsim-3015) /home/student/Desktop/anoop/16bitmux4_1_test.v(7): [PCDPC] - Port size (1) does not match connection size (16) for port 's0'. The port definition is at: /home/student/Desktop/anoop/16bitmux4_1.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /stimulus/mux41_16_gate_1 File: /home/student/Desktop/anoop/16bitmux4_1.v
+# ** Warning: (vsim-3015) /home/student/Desktop/anoop/16bitmux4_1_test.v(7): [PCDPC] - Port size (1) does not match connection size (16) for port 's1'. The port definition is at: /home/student/Desktop/anoop/16bitmux4_1.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /stimulus/mux41_16_gate_1 File: /home/student/Desktop/anoop/16bitmux4_1.v
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 18:04:20 on Sep 09,2018, Elapsed time: 0:02:09
+# Errors: 0, Warnings: 2
+# Compile of 16bitmux4_1.v was successful.
+# Compile of 16bitmux4_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 18:06:38 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.mux41_16_gate
+# Loading work.mux21_gate
+# Loading work.not_gate
+# Loading work.and_gate
+# Loading work.or_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 18:07:34 on Sep 09,2018, Elapsed time: 0:00:56
+# Errors: 0, Warnings: 0
+# Compile of 16bitmux4_1.v was successful.
+# Compile of 16bitmux4_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 18:08:12 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.mux41_16_gate
+# Loading work.mux21_gate
+# Loading work.not_gate
+# Loading work.and_gate
+# Loading work.or_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 18:09:33 on Sep 09,2018, Elapsed time: 0:01:21
+# Errors: 0, Warnings: 0
+# Compile of 16bitmux8_1.v was successful.
+# Compile of 16bitmux8_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of 16bitmux8_1.v was successful.
+# Compile of 16bitmux8_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 18:13:49 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.mux81_16_gate
+# Loading work.mux21_gate
+# Loading work.not_gate
+# Loading work.and_gate
+# Loading work.or_gate
+# ** Warning: (vsim-3015) /home/student/Desktop/anoop/16bitmux8_1_test.v(7): [PCDPC] - Port size (16) does not match connection size (1) for port 'y'. The port definition is at: /home/student/Desktop/anoop/16bitmux8_1.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /stimulus/mux81_16_gate_1 File: /home/student/Desktop/anoop/16bitmux8_1.v
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 18:15:00 on Sep 09,2018, Elapsed time: 0:01:11
+# Errors: 0, Warnings: 1
+# Compile of 16bitmux8_1.v was successful.
+# Compile of 16bitmux8_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 18:15:28 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.mux81_16_gate
+# Loading work.mux21_gate
+# Loading work.not_gate
+# Loading work.and_gate
+# Loading work.or_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 18:17:02 on Sep 09,2018, Elapsed time: 0:01:34
+# Errors: 0, Warnings: 0
+# Compile of 16bitand.v was successful.
+# Compile of 16bitand_test.v was successful.
+# Compile of 16bitmux.v was successful.
+# Compile of 16bitmux_test.v was successful.
+# Compile of 16bitnot.v was successful.
+# Compile of 16bitnot_test.v was successful.
+# Compile of 16bitor.v was successful.
+# Compile of 16bitor_test.v was successful.
+# Compile of 16bitxor.v was successful.
+# Compile of 16bitxor_test.v was successful.
+# Compile of and.v was successful.
+# Compile of and_test.v was successful.
+# Compile of demux2_1.v was successful.
+# Compile of demux2_1_test.v was successful.
+# Compile of mux2_1.v was successful.
+# Compile of mux2_1_test.v was successful.
+# Compile of nor.v was successful.
+# Compile of nor_test.v was successful.
+# Compile of not.v was successful.
+# Compile of not_test.v was successful.
+# Compile of or.v was successful.
+# Compile of or8input.v was successful.
+# Compile of or_test.v was successful.
+# Compile of xnor.v was successful.
+# Compile of xnor_test.v was successful.
+# Compile of xor.v was successful.
+# Compile of xor_test.v was successful.
+# Compile of or8input_test.v was successful.
+# Compile of 16bitmux4_1.v was successful.
+# Compile of 16bitmux4_1_test.v was successful.
+# Compile of demux4_1.v was successful.
+# Compile of demux4_1_test.v was successful.
+# Compile of 16bitmux8_1.v was successful.
+# Compile of 16bitmux8_1_test.v was successful.
+# Compile of demux8_1.v was successful.
+# Compile of demux8_1_test.v was successful.
+# 36 compiles, 0 failed with no errors.
+# Compile of 16bitmux8_1.v was successful.
+# Compile of 16bitmux8_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 18:31:31 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.mux81_16_gate
+# Loading work.mux21_gate
+# Loading work.not_gate
+# Loading work.and_gate
+# Loading work.or_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 18:32:37 on Sep 09,2018, Elapsed time: 0:01:06
+# Errors: 0, Warnings: 0
+# Compile of 16bitmux8_1.v was successful.
+# Compile of 16bitmux8_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 18:33:06 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.mux81_16_gate
+# Loading work.mux21_gate
+# Loading work.not_gate
+# Loading work.and_gate
+# Loading work.or_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 18:33:49 on Sep 09,2018, Elapsed time: 0:00:43
+# Errors: 0, Warnings: 0
+# Compile of 16bitmux8_1.v was successful.
+# Compile of 16bitmux8_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 18:35:19 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.mux81_16_gate
+# Loading work.mux21_gate
+# Loading work.not_gate
+# Loading work.and_gate
+# Loading work.or_gate
+run
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 18:36:13 on Sep 09,2018, Elapsed time: 0:00:54
+# Errors: 0, Warnings: 0
+# Compile of 16bitmux8_1.v was successful.
+# Compile of 16bitmux8_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 18:37:54 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.mux81_16_gate
+# Loading work.mux21_gate
+# Loading work.not_gate
+# Loading work.and_gate
+# Loading work.or_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 18:38:50 on Sep 09,2018, Elapsed time: 0:00:56
+# Errors: 0, Warnings: 0
+# Compile of 16bitmux8_1.v was successful.
+# Compile of 16bitmux8_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of 16bitmux8_1.v was successful.
+# Compile of 16bitmux8_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 18:41:37 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.mux81_16_gate
+# Loading work.mux21_gate
+# Loading work.not_gate
+# Loading work.and_gate
+# Loading work.or_gate
+# ** Warning: (vsim-3015) /home/student/Desktop/anoop/16bitmux8_1_test.v(7): [PCDPC] - Port size (16) does not match connection size (1) for port 's2'. The port definition is at: /home/student/Desktop/anoop/16bitmux8_1.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /stimulus/mux81_16_gate_1 File: /home/student/Desktop/anoop/16bitmux8_1.v
+# ** Warning: (vsim-3015) /home/student/Desktop/anoop/16bitmux8_1_test.v(7): [PCDPC] - Port size (16) does not match connection size (1) for port 's1'. The port definition is at: /home/student/Desktop/anoop/16bitmux8_1.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /stimulus/mux81_16_gate_1 File: /home/student/Desktop/anoop/16bitmux8_1.v
+# ** Warning: (vsim-3015) /home/student/Desktop/anoop/16bitmux8_1_test.v(7): [PCDPC] - Port size (16) does not match connection size (1) for port 's0'. The port definition is at: /home/student/Desktop/anoop/16bitmux8_1.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /stimulus/mux81_16_gate_1 File: /home/student/Desktop/anoop/16bitmux8_1.v
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 18:42:13 on Sep 09,2018, Elapsed time: 0:00:36
+# Errors: 0, Warnings: 3
+# Compile of 16bitmux8_1.v was successful.
+# Compile of 16bitmux8_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 18:44:00 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.mux81_16_gate
+# Loading work.mux21_gate
+# Loading work.not_gate
+# Loading work.and_gate
+# Loading work.or_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 18:45:19 on Sep 09,2018, Elapsed time: 0:01:19
+# Errors: 0, Warnings: 0
+# Compile of 16bitmux8_1.v was successful.
+# Compile of 16bitmux8_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 18:46:00 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.mux81_16_gate
+# Loading work.mux21_gate
+# Loading work.not_gate
+# Loading work.and_gate
+# Loading work.or_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 18:47:14 on Sep 09,2018, Elapsed time: 0:01:14
+# Errors: 0, Warnings: 0
+# Compile of 16bitmux8_1.v was successful.
+# Compile of 16bitmux8_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 18:48:32 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.mux81_16_gate
+# Loading work.mux21_gate
+# Loading work.not_gate
+# Loading work.and_gate
+# Loading work.or_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 18:50:24 on Sep 09,2018, Elapsed time: 0:01:52
+# Errors: 0, Warnings: 0
+# Compile of 16bitmux8_1.v was successful.
+# Compile of 16bitmux8_1_test.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.stimulus
+# vsim work.stimulus 
+# Start time: 18:50:51 on Sep 09,2018
+# Loading work.stimulus
+# Loading work.mux81_16_gate
+# Loading work.mux21_gate
+# Loading work.not_gate
+# Loading work.and_gate
+# Loading work.or_gate
+add wave -position insertpoint sim:/stimulus/*
+run
+quit -sim
+# End time: 18:51:22 on Sep 09,2018, Elapsed time: 0:00:31
+# Errors: 0, Warnings: 0

@@ -1,0 +1,18 @@
+module stimulus; 
+
+reg [3:0] a,b;
+wire [3:0]s;
+wire co;
+
+adder_4bit adder_4bit_1(a,b,s,co)
+
+initial 
+begin
+
+a=12; b=9;
+#10 a=4;b=3; 
+#10 a=1;b=2; 
+#10 a=7;b=11;
+
+end
+endmodule

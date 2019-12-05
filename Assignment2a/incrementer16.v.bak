@@ -1,0 +1,32 @@
+module incrementer_4bit(a,i,d,co);
+
+input [15:0]a;
+input d;
+output [15:0]i;
+output co;
+wire [14:0]c;
+wire e,f;
+
+not_gate not_gate_1(e,d);
+or_gate or_gate_1(f,e,d);
+
+halfadder halfadder_1(i[0],c[0],f,a[0]);
+halfadder halfadder_2(i[1],c[1],c[0],a[1]);
+halfadder halfadder_3(i[2],c[2],c[1],a[2]);
+halfadder halfadder_4(i[3],c[3],c[2],a[3]);
+halfadder halfadder_5(i[4],c[4],c[3],a[4]);
+halfadder halfadder_6(i[5],c[5],c[4],a[5]);
+halfadder halfadder_7(i[6],c[6],c[5],a[6]);
+halfadder halfadder_8(i[7],c[7],c[6],a[7]);
+halfadder halfadder_9(i[8],c[8],c[7],a[8]);
+halfadder halfadder_10(i[9],c[9],c[8],a[9]);
+halfadder halfadder_11(i[10],c[10],c[9],a[10]);
+halfadder halfadder_12(i[11],c[11],c[10],a[11]);
+halfadder halfadder_13(i[12],c[12],c[11],a[12]);
+halfadder halfadder_14(i[13],c[13],c[12],a[13]);
+halfadder halfadder_15(i[14],c[14],c[13],a[14]);
+halfadder halfadder_16(i[15],co,c[14],a[15]);
+
+
+
+endmodule

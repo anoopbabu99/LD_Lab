@@ -1,0 +1,344 @@
+/home/student/Desktop/anoop/demux2_1.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/demux2_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module demux21_gate
+
+Top level modules:
+	demux21_gate
+
+} {} {}} /home/student/Desktop/anoop/16bitnot_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/16bitnot_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/demux4_1.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/demux4_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module demux41_gate
+
+Top level modules:
+	demux41_gate
+
+} {} {}} /home/student/Desktop/anoop/nor.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/nor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module nor_gate
+
+Top level modules:
+	nor_gate
+
+} {} {}} /home/student/Desktop/anoop/or8input_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/or8input_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/or.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/or.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module or_gate
+
+Top level modules:
+	or_gate
+
+} {} {}} /home/student/Desktop/anoop/incrementer16_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/incrementer16_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/demux8_1_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/demux8_1_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/incrementer16.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/incrementer16.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module incrementer_4bit
+
+Top level modules:
+	incrementer_4bit
+
+} {} {}} /home/student/Desktop/anoop/demux8_1.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/demux8_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module demux81_gate
+
+Top level modules:
+	demux81_gate
+
+} {} {}} /home/student/Desktop/anoop/16bitmux4_1.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/16bitmux4_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux41_16_gate
+
+Top level modules:
+	mux41_16_gate
+
+} {} {}} /home/student/Desktop/anoop/16bitxor.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/16bitxor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module xor16_gate
+
+Top level modules:
+	xor16_gate
+
+} {} {}} /home/student/Desktop/anoop/xnor.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/xnor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module xnor_gate
+
+Top level modules:
+	xnor_gate
+
+} {} {}} /home/student/Desktop/anoop/16bitmux8_1.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/16bitmux8_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux81_16_gate
+
+Top level modules:
+	mux81_16_gate
+
+} {} {}} /home/student/Desktop/anoop/16bitand.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/16bitand.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module and16_gate
+
+Top level modules:
+	and16_gate
+
+} {} {}} /home/student/Desktop/anoop/xor.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/xor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module xor_gate
+
+Top level modules:
+	xor_gate
+
+} {} {}} /home/student/Desktop/anoop/and_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/and_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/fulladder_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/fulladder_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/and.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/and.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module and_gate
+
+Top level modules:
+	and_gate
+
+} {} {}} /home/student/Desktop/anoop/fulladder.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/fulladder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fulladder
+
+Top level modules:
+	fulladder
+
+} {} {}} /home/student/Desktop/anoop/negator_4.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/negator_4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module negator_4bit
+
+Top level modules:
+	negator_4bit
+
+} {} {}} /home/student/Desktop/anoop/demux2_1_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/demux2_1_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/16bitor.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/16bitor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module or16_gate
+
+Top level modules:
+	or16_gate
+
+} {} {}} /home/student/Desktop/anoop/16bitmux8_1_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/16bitmux8_1_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/not_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/not_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/or8input.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/or8input.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module orinput8_gate
+
+Top level modules:
+	orinput8_gate
+
+} {} {}} /home/student/Desktop/anoop/16bitmux.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/16bitmux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux21_16_gate
+
+Top level modules:
+	mux21_16_gate
+
+} {} {}} /home/student/Desktop/anoop/mux2_1_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/mux2_1_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/adder4_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/adder4_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/negator4_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/negator4_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/demux4_1_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/demux4_1_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/nor_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/nor_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/16bitnot.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/16bitnot.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module not16_gate
+
+Top level modules:
+	not16_gate
+
+} {} {}} /home/student/Desktop/anoop/16bitmux_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/16bitmux_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/not.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/not.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module not_gate
+
+Top level modules:
+	not_gate
+
+} {} {}} /home/student/Desktop/anoop/halfadder_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/halfadder_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/halfadder.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/halfadder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module halfadder
+
+Top level modules:
+	halfadder
+
+} {} {}} /home/student/Desktop/anoop/16bitxor_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/16bitxor_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/xnor_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/xnor_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/incrementer4.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/incrementer4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module incrementer_4bit
+
+Top level modules:
+	incrementer_4bit
+
+} {} {}} /home/student/Desktop/anoop/16bitmux4_1_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/16bitmux4_1_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/16bitor_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/16bitor_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/adder16.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/adder16.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder_16bit
+
+Top level modules:
+	adder_16bit
+
+} {} {}} /home/student/Desktop/anoop/incrementer4_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/incrementer4_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/or_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/or_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/mux2_1.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/mux2_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux21_gate
+
+Top level modules:
+	mux21_gate
+
+} {} {}} /home/student/Desktop/anoop/adder4.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/adder4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder_4bit
+
+Top level modules:
+	adder_4bit
+
+} {} {}} /home/student/Desktop/anoop/16bitand_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/16bitand_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} /home/student/Desktop/anoop/xor_test.v {1 {vlog -work work -stats=none /home/student/Desktop/anoop/xor_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}}
